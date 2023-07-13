@@ -1,0 +1,11 @@
+{
+    "interval": 1.0,
+    "seed": 0,
+    "dir": "datasets/",
+    "roadnetFile": "6x6/roadnet_6x6.json",
+    "flowFile": "6x6/3_im_flow_gau_6000_11.11.json",
+    "rlTrafficLight": true,
+    "saveReplay": true,
+    "roadnetLogFile": "replay_roadnet.json",
+    "replayLogFile": "replay_flow.txt"
+}

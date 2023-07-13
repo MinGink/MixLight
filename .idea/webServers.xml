@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41283960-b126-459a-b39a-e958c630283a" name="WSL" url="http://localhost">
+        <fileTransfer mountedRoot="\\wsl$\Ubuntu-20.04\home\ming" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
